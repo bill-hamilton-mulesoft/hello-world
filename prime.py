@@ -1,4 +1,5 @@
 # Program to check if a number is prime or not
+# A comment added by Bill
 
 num = 29
 
